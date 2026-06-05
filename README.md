@@ -21,3 +21,7 @@ Generates a concise summary of what was accomplished in the current conversation
 ### `/verify-documentation`
 
 Reads a documentation file and cross-checks its claims against the actual codebase (file structure, project manifests, source code). Corrects outdated or inaccurate content in-place without adding unnecessary new sections.
+
+### `/lessons-learned`
+
+Reflects on the current conversation to surface friction points, non-obvious codebase insights, and debugging patterns. Saves actionable lessons to memory so future sessions benefit from what was discovered.
