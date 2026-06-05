@@ -1,6 +1,7 @@
 ---
 name: lessons-learned
 description: Reflect on what was learned during development and save key insights to memory
+disable-model-invocation: true
 ---
 Reflect on this conversation and identify lessons that would make future development smoother. Consider:
 
